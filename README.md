@@ -6,4 +6,4 @@
 
 This project is a low-cost, highly scalable six-degree-of-freedom articulated robotic arm, specially designed for robot enthusiasts, researchers and students. It supports precise motion control, path planning, and custom task programming, and can be widely applied in scenarios such as teaching demonstrations, automated experiments, and small-scale production line operations. ​
 Core objective: Lower the threshold for robotic arm development, provide a complete open-source solution from hardware design to software control, and assist developers in quickly building their own robotic arm systems.
-![六自由度关节式机械臂]()
+![六自由度关节式机械臂](pictures/机械臂.gif)
