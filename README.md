@@ -11,4 +11,4 @@ Core objective: Lower the threshold for robotic arm development, provide a compl
 # 加入社区
 
 <p align="center">
-  <img src="./pictures/QQ群.png" width="400"/>
+  <img src=".QQ群/QQ群.png" width="400"/>
