@@ -9,7 +9,10 @@ Core objective: Lower the threshold for robotic arm development, provide a compl
 <p align="center">
   <img src="pictures/机械臂.gif" width="800"/>
 
-# 加入社区
+## 致谢
+感谢项目组成员岳国文，田宇鑫在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。
+
+## 加入社区
 
 <p align="center">
   <img src="QQ群/QQ群.png" width="400"/>
