@@ -1,5 +1,6 @@
 # 6-DOF_Articulated_Robot_ArmV1
 六自由度关节式机械臂6-DOF Articulated Robot ArmV1
+机械臂本体五个自由度，末端执行器是一个自由度，如果有兴趣，可以在机械臂的基础上增加一个末端执行器。
 
 <p align="center">
   <img src="pictures/机械臂.png" width="600"/>
